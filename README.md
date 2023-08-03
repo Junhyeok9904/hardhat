@@ -17,6 +17,9 @@ INFURA_API_KEY = <Infura api key>
 NFT_CONTRCT_ADDRESS = <Depolyed NFT contract Address>
 FUN_TOKEN_ADDRESS = <Deployed ERC20 verified Token contract Address>
 ```
+
+
+# please install npm package
 ```bash
 # INFURA アカウント生成
 # 各種APIkey(Web3 API) を確認 手元にメモ
