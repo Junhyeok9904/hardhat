@@ -1,9 +1,14 @@
 # introduce
 
-testing hardhat to make erc20 and erc721 satisfacted token
-using sepolia network
-using infura node for api key
-
+ 
+<div>
+  testing hardhat to make erc20 and erc721 satisfacted token
+  <br>
+  using sepolia network
+  <br>
+  using infura node for api key
+</div>
+ 
 # please make a .env file
 
 ```
