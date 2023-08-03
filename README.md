@@ -25,8 +25,9 @@ FUN_TOKEN_ADDRESS = <Deployed ERC20 verified Token contract Address>
 # 各種APIkey(Web3 API) を確認 手元にメモ
 # 必要なライブラリをだ https://docs.palm.io/howto/deploy-using-hardhat/erc-721
 
-~$npm install @openzeppelin/contracts
-~$npm install -D hardhat-deploy
-~$npm install --save-dev @nomiclabs/hardhat-ethers ethers@^5.0.0
-~$npm install --save dotenv
+npm init
+npm install @openzeppelin/contracts
+npm install -D hardhat-deploy
+npm install --save-dev @nomiclabs/hardhat-ethers ethers@^5.0.0
+npm install --save dotenv
 ```
