@@ -1,3 +1,9 @@
+# introduce
+
+testing hardhat to make erc20 and erc721 satisfacted token
+using sepolia network
+using infura node for api key
+
 # please make a .env file
 
 ```
