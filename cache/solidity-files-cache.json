@@ -657,8 +657,8 @@
       ]
     },
     "/Users/kim/projects/hardhat/contracts/FunToken.sol": {
-      "lastModificationDate": 1691031478388,
-      "contentHash": "c53e8f7a13ebb2f45de03ad0f04533f4",
+      "lastModificationDate": 1691036391236,
+      "contentHash": "0e1e09fa93f493f4db98ad2d4de35fc3",
       "sourceName": "contracts/FunToken.sol",
       "solcConfig": {
         "version": "0.8.20",

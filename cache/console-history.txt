@@ -1,0 +1,5 @@
+quit
+nft2.mint("0x02cDB688c69F1a2911ec07417f98AA51562BE4B2")
+nft2.mint("0xae8Ea1A16d0b2E9F1B314291303B400dC7a48873")
+const nft2 = await nft.attach('0x40AB0C257396e6a822c16121dd5aCa908f5A81C8');
+const nft = await ethers.getContractFactory('NFT')
