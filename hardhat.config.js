@@ -26,6 +26,12 @@ module.exports = {
       saveDeployments: true,
       deploy: ["scripts/"],
     },
+    goerli: {
+      url: `https://goerli.infura.io/v3/${process.env.INFURA_API_KEY}`,
+      accounts: [`0x` + process.env.PRIVATE_KEY],
+      saveDeployments: true,
+      deploy: ["scripts/"],
+    }
   },
   namedAccounts: {
     deployer: 0
